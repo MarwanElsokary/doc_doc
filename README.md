@@ -1,16 +1,37 @@
-# doc_doc
+# 🏥 Doc Doc App
 
-A new Flutter project.
+**Appointment App** is a mobile application that helps patients easily find nearby doctors, view their profiles, check ratings & reviews, and locate them on an interactive map.  
+It aims to make the process of finding and booking medical appointments **faster, easier, and more reliable**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features
+- 🔍 **Search & Browse**: Find doctors by specialty, location, or name.
+- ⭐ **Ratings & Reviews**: Check other patients’ feedback before booking.
+- 📍 **Location Integration**: View doctors’ clinics on an interactive map.
+- 📅 **Appointment Booking**: Book consultations directly from the app *(if enabled)*.
+- 👤 **Profile Management**: Both patients and doctors can manage their profiles.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Add your app design screenshots here to make the README more attractive.
+
+| Home Screen | Doctor Profile | Map View |
+|-------------|----------------|----------|
+| ![Home](assets/screenshots/home.png) | ![Profile](assets/screenshots/profile.png) | ![Map](assets/screenshots/map.png) |
+
+---
+
+## 🛠️ Tech Stack
+- **Framework**: Flutter
+- **State Management**: Provider / Bloc *(specify what you use)*
+- **Backend**: Firebase (Firestore, Authentication, Storage)
+- **Maps**: Google Maps API
+- **Authentication**: Firebase Auth
+- **Platform**: Android & iOS
+
+---
+
+## 📂 Project Structure
