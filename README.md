@@ -1,6 +1,6 @@
 # 🏥 Doc Doc App
 
-**Appointment App** is a mobile application that helps patients easily find nearby doctors, view their profiles, check ratings & reviews, and locate them on an interactive map.  
+**Doc Doc App** is a mobile application that helps patients easily find nearby doctors, view their profiles, check ratings & reviews, and locate them on an interactive map.  
 It aims to make the process of finding and booking medical appointments **faster, easier, and more reliable**.
 
 ---
@@ -16,11 +16,9 @@ It aims to make the process of finding and booking medical appointments **faster
 
 ## 🖼️ Screenshots
 
-> Add your app design screenshots here to make the README more attractive.
-
-| Home Screen | Doctor Profile | Map View |
-|-------------|----------------|----------|
-| ![Home](assets/screenshots/home.png) | ![Profile](assets/screenshots/profile.png) | ![Map](assets/screenshots/map.png) |
+| Home Screen | Doctor Profile | Map View                        |
+|-------------|----------------|---------------------------------|
+| ![Home](assets/images/img.png) | ![Profile](assets/images/img_1.png) | ![Map](assets/images/img_2.png) |
 
 ---
 
