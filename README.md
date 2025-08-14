@@ -1,6 +1,6 @@
-# 🏥 Appointment App
+# 🏥 Doc Doc App
 
-**Appointment App** is a mobile application that helps patients easily find nearby doctors, view their profiles, check ratings & reviews, and locate them on an interactive map.  
+**Doc Doc App** is a mobile application that helps patients easily find nearby doctors, view their profiles, check ratings & reviews, and locate them on an interactive map.  
 It aims to make the process of finding and booking medical appointments **faster, easier, and more reliable**.
 
 ---
@@ -18,7 +18,7 @@ It aims to make the process of finding and booking medical appointments **faster
 
 
 | Splash Screen                      | Home Screen |  Profile                      | Map View                        |
-|------------------------------------|-------------|-------------------------------------|---------------------------------|
+|------------------------------------|-------------|-------------------------------------|------------------------------|
 | ![Splash](assets/images/img_3.png) | ![Home](assets/images/img.png) | ![Profile](assets/images/img_1.png) | ![Map](assets/images/img_2.png) |
 
 ---
@@ -29,15 +29,6 @@ It aims to make the process of finding and booking medical appointments **faster
 - **Backend**: REST API
 - **Maps**: Google Maps API
 - **Platform**: Android & iOS
-
----
-
-## 📂 Project Structure
-lib/
-│-- core/ # Constants, themes, utilities
-│-- features/ # App features (Home, Search, Profile...)
-│-- widgets/ # Reusable UI components
-│-- main.dart # App entry point
 
 ---
 
