@@ -42,7 +42,7 @@ It aims to make the process of finding and booking medical appointments **faster
 ### Installation
 ```bash
 # Clone this repository
-git clone https://github.com/username/appointment_app.git
+git clone [(https://github.com/MarwanElsokary/doc_doc.git]
 
 # Go into the project folder
 cd appointment_app
