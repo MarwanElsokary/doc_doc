@@ -17,7 +17,7 @@ It aims to make the process of finding and booking medical appointments **faster
 ## 🖼️ Screenshots
 
 
-| Splash Screen                      | Home Screen | Doctor Profile                      | Map View                        |
+| Splash Screen                      | Home Screen |  Profile                      | Map View                        |
 |------------------------------------|-------------|-------------------------------------|---------------------------------|
 | ![Splash](assets/images/img_3.png) | ![Home](assets/images/img.png) | ![Profile](assets/images/img_1.png) | ![Map](assets/images/img_2.png) |
 
@@ -38,12 +38,6 @@ lib/
 │-- features/ # App features (Home, Search, Profile...)
 │-- widgets/ # Reusable UI components
 │-- main.dart # App entry point
-
-yaml
-Copy
-Edit
-
----
 
 ---
 
